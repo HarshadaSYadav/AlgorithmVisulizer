@@ -1,6 +1,6 @@
 # Algorithm Visualizer 
 
-Welcome to the Algorithm Visualizer for Stack! This tool is designed to help you understand how stack-based algorithms work by visualizing their operation step by step.
+Welcome to the Algorithm Visualizer for Stack and Queue! This tool is designed to help you understand how stack-based and Queue-based algorithms work by visualizing their operation step by step.
 
 ## Features
 
