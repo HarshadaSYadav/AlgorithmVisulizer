@@ -4,7 +4,7 @@ Welcome to the Algorithm Visualizer for Stack and Queue! This tool is designed t
 
 ## Features
 
-- **Interactive Visualization**: See how stack-based algorithms manipulate data structures in real-time.
+- **Interactive Visualization**: Step-by-step execution of algorithms.
 - **Multiple Algorithms**: Explore stack and Queue algorithms, including push, pop, peek, and more.
 - **Step-by-Step Execution**: Follow the execution of each algorithm with detailed step-by-step explanations.
 - **Visual Representation**: Watch as elements are pushed onto and popped off the stack, with visual cues for better understanding.
@@ -36,7 +36,7 @@ If you encounter any issues or have suggestions for improvement, feel free to re
 
 ## Contributions
 
-We welcome contributions to the Algorithm Visualizer for Stack! If you have ideas for new features, algorithms, or improvements, please submit a pull request on our GitHub repository. Together, we can make learning about stack algorithms more accessible and enjoyable for everyone.
+We welcome contributions to the Algorithm Visualizer! If you have ideas for new features, algorithms, or improvements, please submit a pull request on our GitHub repository. Together, we can make learning about stack algorithms more accessible and enjoyable for everyone.
 
 ## License
 
@@ -48,5 +48,5 @@ Special thanks to all contributors and open-source projects that have inspired a
 
 ---
 
-**Algorithm Visualizer for Stack** is a project aimed at making complex algorithms more understandable through visualization. Dive into the world of stack-based algorithms and enhance your understanding today!
+**Algorithm Visualizer** is a project aimed at making complex algorithms more understandable through visualization. Dive into the world of algorithms and enhance your understanding today!
 
