@@ -11,11 +11,11 @@ Welcome to the Algorithm Visualizer for Stack! This tool is designed to help you
 
 ## Supported Algorithms
 
-## Queue Algorithm
+# Queue Algorithm
 - **Enqueue**
 - **Dequeue**
 
-## Stack Algorithms
+# Stack Algorithms
 - **Push**: Add elements onto the stack.
 - **Pop**: Remove elements from the top of the stack.
 - **Peek**: View the element at the top of the stack without removing it.
