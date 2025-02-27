@@ -5,12 +5,17 @@ Welcome to the Algorithm Visualizer for Stack! This tool is designed to help you
 ## Features
 
 - **Interactive Visualization**: See how stack-based algorithms manipulate data structures in real-time.
-- **Multiple Algorithms**: Explore various stack algorithms, including push, pop, peek, and more.
+- **Multiple Algorithms**: Explore stack and Queue algorithms, including push, pop, peek, and more.
 - **Step-by-Step Execution**: Follow the execution of each algorithm with detailed step-by-step explanations.
 - **Visual Representation**: Watch as elements are pushed onto and popped off the stack, with visual cues for better understanding.
 
 ## Supported Algorithms
 
+## Queue Algorithm
+- **Enqueue**
+- **Dequeue**
+
+## Stack Algorithms
 - **Push**: Add elements onto the stack.
 - **Pop**: Remove elements from the top of the stack.
 - **Peek**: View the element at the top of the stack without removing it.
